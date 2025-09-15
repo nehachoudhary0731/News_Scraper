@@ -1,4 +1,3 @@
-# News_Scraper
 # Web Scraper
 
 A simple Python script that scrapes data from a target website and saves the 
